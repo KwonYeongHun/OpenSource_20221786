@@ -6,9 +6,9 @@
 
 ---
 # 오픈소스기초설계_영유아 낙상 사고 방지를 위한 앱 개발
-* 영유아 낙상 사고 방지를 위한 앱을 개발하는 repository이다.
+* 영유아 낙상 사고 방지를 위한 앱을 개발하는 Repository이다.
 
-# Reporitory 내용
+# Repository 내용
 |위치|이름|
 |:---:|:---:|
 |src|calculator|
