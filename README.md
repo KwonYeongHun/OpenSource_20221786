@@ -11,7 +11,7 @@
 # Repository 내용
 |위치|이름|
 |:---:|:---:|
-|src|calculator|
+|src|calculator, Bsafe|
 |doc|영유아 낙상 사고 방지를 위한 앱 개발(20221786, 권영훈).docx|
 
 # 영유아 낙상 사고 방지를 위한 앱 개발 워드 파일의 내용 요약
